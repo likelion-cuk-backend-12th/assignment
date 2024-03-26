@@ -5,3 +5,4 @@ Java에서 사용되는 기본 자료형(primitive data type)에는 어떤 것�
   -> 자신이 사용하고자 하는 데이터 크기를 고려해야함. 표현 범위를 벗어나면 오버플로우 발생
 2. 실수형 타입: float, double
 3. 문자형 타입: char
+4. 논리형 타입: boolean
