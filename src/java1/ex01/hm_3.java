@@ -2,9 +2,8 @@ package java1.ex01;
 
 public class hm_3 {
     public static void main(String[] args) {
-        int a=10;
-        int b=5;
+        String name = "John";
+        System.out.println("Hello,"+name+"!");
 
-        System.out.println(a+" "+b);
     }
 }
