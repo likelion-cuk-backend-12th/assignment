@@ -1,4 +1,4 @@
-package ex_00;
+package ex00;
 
 public class hw_1 {
     public static void main(String[] args) {
