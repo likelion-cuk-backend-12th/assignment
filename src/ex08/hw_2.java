@@ -1,4 +1,4 @@
-package ex08;
+package src.ex08;
 
 import java.util.Scanner;
 
@@ -24,4 +24,5 @@ public class hw_2 {
 
 
     }
+
 }
