@@ -15,17 +15,16 @@ public class bonus00 {
 
 
     public static void convertThreeBase(int num){
-        long ThreeBase = 0;
-
-        System.out.println("3진수 변환"+ThreeBase);
+        String ThreeBase = Integer.toString(num, 3);
+        System.out.println("3진수 변환: "+ThreeBase);
     }
     public static void convertFiveBase(int num){
-        long FiveBase = 0;
-        System.out.println("5진수 변환"+FiveBase);
+        String FiveBase = Integer.toString(num, 5);
+        System.out.println("5진수 변환: "+FiveBase);
     }
     public static void convertThirteen(int num){
-        long Thirteen = 0;
-        System.out.println("5진수 변환"+Thirteen);
+        String Thirteen = Integer.toString(num, 13);;
+        System.out.println("13진수 변환: "+Thirteen);
     }
 
 }
