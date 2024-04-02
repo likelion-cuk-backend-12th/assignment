@@ -23,7 +23,7 @@ public class bonus00 {
         System.out.println("5진수 변환: "+FiveBase);
     }
     public static void convertThirteen(int num){
-        String Thirteen = Integer.toString(num, 13);;
+        String Thirteen = Integer.toString(num, 13);
         System.out.println("13진수 변환: "+Thirteen);
     }
 

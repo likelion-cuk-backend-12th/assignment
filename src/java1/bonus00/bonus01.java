@@ -26,5 +26,4 @@ public class bonus01 {
 
         return maxValue;
     }
-
 }

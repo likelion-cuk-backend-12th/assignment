@@ -8,12 +8,18 @@ public class hw_3 {
 
         System.out.print("입력: ");
         String str = sc.nextLine();
-        char[] charArr = str.toCharArray();
-        char movechar;
 
-        for(int i=0; i< charArr.length; i++){
+        for(int i=0; i< str.length(); i++){
+            int temp=str.charAt(i);
 
+            if(temp==122){
+                temp=97;
+            }else if(temp==90){
+                temp=65;
+            }else{
+                temp++;
+            }
+            System.out.print((char)temp);
         }
-        //System.out.println(str2);
     }
 }
