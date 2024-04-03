@@ -1,0 +1,16 @@
+package java1.ex08;
+
+import java.util.Scanner;
+
+class hw_2 {
+    public void change(String str){
+        String answer = str.toUpperCase();
+        System.out.println(answer);
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
+        hw_2 h = new hw_2();
+        h.change(str);
+    }
+}
