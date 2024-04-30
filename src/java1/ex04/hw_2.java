@@ -1,4 +1,4 @@
-package ex04;
+package java1.ex04;
 
 public class hw_2 {
     public static void main(String[] args) {
