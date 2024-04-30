@@ -20,7 +20,6 @@ public class LikeList {
         }
     }
 
-    // 삽입 메서드, index 위치에 노드 추가
     public void insert(int index, int data) {
         Node h = this.head;
         Node prevH = null;
@@ -45,7 +44,6 @@ public class LikeList {
         this.size++;
     }
 
-    // 삭제 메서드, index 위치에 노드 삭제
     public void delete(int index) {
         Node h = this.head;
         Node prevH = null;
@@ -79,7 +77,6 @@ public class LikeList {
         return h.data;
     }
 
-    // 전체 노드 출력 메서드
     public void print() {
         Node h = this.head;
         int idx = 0;
