@@ -1,4 +1,4 @@
-package java2.ex6;
+package java2.ex06;
 import java2.ex04.*;
 public class LikeQueue {
 

@@ -1,4 +1,4 @@
-package java2.ex5;
+package java2.ex05;
 import java2.ex04.*;
 
 public class LikeStack {
