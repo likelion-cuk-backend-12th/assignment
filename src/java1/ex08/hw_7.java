@@ -8,8 +8,8 @@ public class hw_7 {
 
         System.out.print("입력: ");
         int num = sc.nextInt();
-        long binum = Long.parseLong(Integer.toBinaryString(num));
-        System.out.println(binum);
+        long binarynum = Long.parseLong(Integer.toBinaryString(num));
+        System.out.println(binarynum);
 
     }
 }

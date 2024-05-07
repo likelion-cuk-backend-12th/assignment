@@ -1,7 +1,7 @@
 package java1.ex07;
 
 public class hw_1 {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         int a = 0;
         myInteger b = new myInteger();
 
