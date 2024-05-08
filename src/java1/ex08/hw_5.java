@@ -1,4 +1,4 @@
-package ex08;
+package src.java1.ex08;
 
 public class hw_5 {
     public static void main(String[] args) {
