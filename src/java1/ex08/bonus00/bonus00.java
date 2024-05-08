@@ -1,4 +1,4 @@
-package bonus00;
+package src.java1.ex08.bonus00;
 
 import java.util.ArrayList;
 import java.util.Scanner;

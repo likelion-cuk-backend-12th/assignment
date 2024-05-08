@@ -1,4 +1,4 @@
-package src.java2.ex00.ex00;
+package src.java2.ex00;
 
 public class RecLion {
     public static int recursion(int idx){

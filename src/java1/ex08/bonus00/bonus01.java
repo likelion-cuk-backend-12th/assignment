@@ -1,4 +1,4 @@
-package bonus00;
+package src.java1.ex08.bonus00;
 
 public class bonus01 {
     public static int findLSL(String str){
