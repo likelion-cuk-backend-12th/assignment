@@ -4,6 +4,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+/*
+    파일 입출력 너무 헷갈려요 ㅠ
+ */
+
+
 public class Student {
 
 
@@ -18,7 +23,7 @@ public class Student {
                 // 파일 내용을 한 줄씩 읽어옴
                 while (scanner.hasNextLine()) {
                     String data = scanner.nextLine();
-
+                    
 
                 }
 
